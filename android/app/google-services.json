@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264075642096",
+    "project_id": "messageme-app-99b47",
+    "storage_bucket": "messageme-app-99b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264075642096:android:2647f238665d2c3c3fee35",
+        "android_client_info": {
+          "package_name": "com.alnajar94.message_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264075642096-1o5m6m4p34n70egb68du1tg0qeosgaqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Rb9kILb_40vfg6HiooporkWTpKdGpNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264075642096-1o5m6m4p34n70egb68du1tg0qeosgaqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
